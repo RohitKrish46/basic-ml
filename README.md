@@ -7,3 +7,5 @@ This repository contains comprehensive implementations of Machine Learning algor
 - K-Nearest Neighbours
 - Naive Bayes
 - Linear Regression
+- K-means 
+- Decision Trees
