@@ -9,3 +9,4 @@ This repository contains comprehensive implementations of Machine Learning algor
 - Linear Regression
 - K-means 
 - Decision Trees
+- Random Forest
