@@ -1,12 +1,28 @@
-# ML Algos from Scratch
+# ML-From-Scratch
 
-This repository contains comprehensive implementations of Machine Learning algorithms built from scratch, providing an in-depth understanding of their underlying principles and workings.
+This repository is a personal learning project where I implement fundamental Machine Learning algorithms from scratch in Python. The goal is to deeply understand the core mechanics of each algorithm by building them without relying on high-level ML libraries.
 
-## Algorithms Directory
+## 🎯Purpose
+This project was created to solidify my understanding of essential ML algorithms through clean, modular, and well-documented code. By writing everything from the ground up, I aimed to:
 
-- K-Nearest Neighbours
-- Naive Bayes
-- Linear Regression
-- K-means 
-- Decision Trees
+- Internalize the mathematical concepts behind each algorithm
+
+- Practice writing maintainable, production-quality Python code
+
+- Explore good software engineering principles in the context of ML
+
+## 📦 Implemented Algorithms
+
+Each algorithm is implemented from scratch (under `algos/`) and includes full documentation, example usage, and unit tests:
+
+- Decision Trees – using entropy-based splitting
+
+- K-Nearest Neighbors – supports multiple distance metrics
+
+- K-Means Clustering
+
+- Simple Linear Regression – with gradient descent
+
 - Random Forest
+
+- Naive Bayes – Gaussian variant
