@@ -15,14 +15,14 @@ This project was created to solidify my understanding of essential ML algorithms
 
 Each algorithm is implemented from scratch (under `algos/`) and includes full documentation, example usage, and unit tests:
 
-- Decision Trees – using entropy-based splitting
+- Decision Trees 
 
-- K-Nearest Neighbors – supports multiple distance metrics
+- K-Nearest Neighbors 
 
 - K-Means Clustering
 
-- Simple Linear Regression – with gradient descent
+- Simple Linear Regression 
 
 - Random Forest
 
-- Naive Bayes – Gaussian variant
+- Naive Bayes 
